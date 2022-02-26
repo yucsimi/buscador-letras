@@ -37,7 +37,7 @@ const RecetasProvider = (props) => {
 
 
 
-    }, [busqueda])
+    }, [busqueda, nombre, categoria])
 
     return (
 
